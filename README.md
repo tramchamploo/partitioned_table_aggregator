@@ -1,0 +1,2 @@
+# subtable_data_aggregator
+一个简单的分表汇总组件，依赖spring的jdbctemplate,使用堆排序,包括一个迁移时双写用的id生成器，使用zookeeper和redis互备
