@@ -1,4 +1,4 @@
-package partition;
+package common;
 
 import com.google.common.util.concurrent.*;
 import org.slf4j.Logger;

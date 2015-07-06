@@ -1,6 +1,6 @@
 package partition;
 
-import cn.j.rio.tools.PublicExecutorService;
+import common.PublicExecutorService;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 
